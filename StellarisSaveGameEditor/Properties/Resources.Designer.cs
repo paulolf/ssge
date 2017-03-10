@@ -69,5 +69,14 @@ namespace StellarisSaveGameEditor.Properties {
                         "rror__", resourceCulture);
             }
         }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to File saved..
+        /// </summary>
+        internal static string Main_saveToolStripMenuItem_Click_File_saved {
+            get {
+                return ResourceManager.GetString("Main_saveToolStripMenuItem_Click_File_saved", resourceCulture);
+            }
+        }
     }
 }
