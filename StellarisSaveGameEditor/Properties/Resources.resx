@@ -120,4 +120,22 @@
   <data name="Main_saveToolStripMenuItem_Click_File_saved" xml:space="preserve">
     <value>File saved.</value>
   </data>
+  <data name="Main_Main_Please_open_a_file" xml:space="preserve">
+    <value>Please open a file...</value>
+  </data>
+  <data name="Main_openToolStripMenuItem_Click_sav_files" xml:space="preserve">
+    <value>sav files (*.sav)|*.sav</value>
+  </data>
+  <data name="Main_openToolStripMenuItem_Click_File_opened_successfully" xml:space="preserve">
+    <value>File opened successfully!</value>
+  </data>
+  <data name="Main_saveToolStripMenuItem_Click_Save" xml:space="preserve">
+    <value>Save</value>
+  </data>
+  <data name="Main_openToolStripMenuItem_Click_Opening_file" xml:space="preserve">
+    <value>Opening file...</value>
+  </data>
+  <data name="Main_comboBoxChoosePlanet_SelectedIndexChanged_There_was_an_error_when_loading_the_selected_planet_data" xml:space="preserve">
+    <value>There was an error when loading the selected planet data. Please choose another planet.</value>
+  </data>
 </root>

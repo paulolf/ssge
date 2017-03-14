@@ -61,6 +61,25 @@ namespace StellarisSaveGameEditor.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to There was an error when loading the selected planet data. Please choose another planet..
+        /// </summary>
+        internal static string Main_comboBoxChoosePlanet_SelectedIndexChanged_There_was_an_error_when_loading_the_selected_planet_data {
+            get {
+                return ResourceManager.GetString("Main_comboBoxChoosePlanet_SelectedIndexChanged_There_was_an_error_when_loading_th" +
+                        "e_selected_planet_data", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Please open a file....
+        /// </summary>
+        internal static string Main_Main_Please_open_a_file {
+            get {
+                return ResourceManager.GetString("Main_Main_Please_open_a_file", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Error: Could not read file from disk. Original error: .
         /// </summary>
         internal static string Main_openToolStripMenuItem_Click_Error__Could_not_read_file_from_disk__Original_error__ {
@@ -71,11 +90,47 @@ namespace StellarisSaveGameEditor.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to File opened successfully!.
+        /// </summary>
+        internal static string Main_openToolStripMenuItem_Click_File_opened_successfully {
+            get {
+                return ResourceManager.GetString("Main_openToolStripMenuItem_Click_File_opened_successfully", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Opening file....
+        /// </summary>
+        internal static string Main_openToolStripMenuItem_Click_Opening_file {
+            get {
+                return ResourceManager.GetString("Main_openToolStripMenuItem_Click_Opening_file", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to sav files (*.sav)|*.sav.
+        /// </summary>
+        internal static string Main_openToolStripMenuItem_Click_sav_files {
+            get {
+                return ResourceManager.GetString("Main_openToolStripMenuItem_Click_sav_files", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to File saved..
         /// </summary>
         internal static string Main_saveToolStripMenuItem_Click_File_saved {
             get {
                 return ResourceManager.GetString("Main_saveToolStripMenuItem_Click_File_saved", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Save.
+        /// </summary>
+        internal static string Main_saveToolStripMenuItem_Click_Save {
+            get {
+                return ResourceManager.GetString("Main_saveToolStripMenuItem_Click_Save", resourceCulture);
             }
         }
     }
